@@ -16,7 +16,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="NUnit" Version="3.11.0"></PackageReference>
+    <PackageReference Include="NUnit" Version="3.13.1"></PackageReference>
     <packagereference Include="NUnit3TestAdapter" Version="3.11.0"></packagereference>
     <PackageReference Include="ObjectApproval" Version="2.2.0"></PackageReference>
     <PackageReference Include="Shouldly" Version="3.0.2"></PackageReference>
