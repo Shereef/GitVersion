@@ -20,7 +20,7 @@
     <packagereference Include="NUnit3TestAdapter" Version="3.11.0"></packagereference>
     <PackageReference Include="ObjectApproval" Version="2.2.0"></PackageReference>
     <PackageReference Include="Shouldly" Version="3.0.2"></PackageReference>
-    <PackageReference Include="Microsoft.Build.Utilities.Core" Version="15.6.85" />
+    <PackageReference Include="Microsoft.Build.Utilities.Core" Version="16.9.0" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Approved\**\*.txt" />
